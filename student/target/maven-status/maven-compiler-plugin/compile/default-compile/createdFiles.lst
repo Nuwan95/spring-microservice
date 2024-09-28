@@ -1,0 +1,6 @@
+com\microservice\student\service\StudentService.class
+com\microservice\student\StudentApplication.class
+com\microservice\student\repository\StudentRepository.class
+com\microservice\student\dto\StudentResponse.class
+com\microservice\student\entity\Student.class
+com\microservice\student\dto\School.class
